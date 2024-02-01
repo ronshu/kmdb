@@ -8,9 +8,8 @@
  $queryParams = [
   'nation' => '대한민국',
   'collection' => 'kmdb_new2',
-  'ServiceKey' => '
-  09743132B09WJ4BBH815',
-  'val001' => '2018',
+  'ServiceKey' => '4P57J7TXZFG8Y1E92YI5',
+  'val001' => '2022',
   'val002' => '01',
  ];
  
